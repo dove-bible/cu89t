@@ -27,3 +27,9 @@
 5. [fix missing reference](../../commit/6672586)
 
 6. [remove useless white space](../../commit/31e9939)
+
+7. [fix for 𣎴 (cjk ext-b)](../../commit/c6287a6)
+
+| Original | Fixed | Unicode | OS |
+| :--: | -- | ------- | -- |
+| (墩) | [𣎴](https://www.unicode.org/cgi-bin/GetUnihanData.pl?codepoint=233b4) | cjk ext-b, Unicode 3.1, 2001 | Android 6+ |
