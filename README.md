@@ -33,3 +33,5 @@
 | Original | Fixed | Unicode | OS |
 | :--: | -- | ------- | -- |
 | (墩) | [𣎴](https://www.unicode.org/cgi-bin/GetUnihanData.pl?codepoint=233b4) | cjk ext-b, Unicode 3.1, 2001 | Android 6+ |
+
+Note: iOS 6 (at least 6.1.6, release 2012 - 2014) support `𣎴`.
