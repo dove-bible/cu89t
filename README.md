@@ -30,6 +30,8 @@
 
 7. [fix for 𣎴 (cjk ext-b)](../../commit/c6287a6)
 
+8. [adjust format for Ps 87:2, Ezek 28:20-22](../../commit/e8c50b5)
+
 | Original | Fixed | Unicode | OS |
 | :--: | -- | ------- | -- |
 | (墩) | [𣎴](https://www.unicode.org/cgi-bin/GetUnihanData.pl?codepoint=233b4) | cjk ext-b, Unicode 3.1, 2001 | Android 6+ |
