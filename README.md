@@ -32,6 +32,10 @@
 
 8. [adjust format for Ps 87:2, Ezek 28:20-22](../../commit/e8c50b5)
 
+9. [adjust format for Gen 27:39, Zech 9:1, Neh 1:11](../../commit/ae861a5)
+
+9. [着 -> 著](../../commit/2758a55)
+
 | Original | Fixed | Unicode | OS |
 | :--: | -- | ------- | -- |
 | (墩) | [𣎴](https://www.unicode.org/cgi-bin/GetUnihanData.pl?codepoint=233b4) | cjk ext-b, Unicode 3.1, 2001 | Android 6+ |
